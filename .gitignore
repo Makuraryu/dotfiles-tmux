@@ -1,0 +1,21 @@
+# TPM plugins (clone TPM and install plugins with `prefix + I` on a new machine)
+plugins/
+
+# tmux-resurrect / continuum state (if used)
+resurrect/
+*.save
+
+# Logs
+*.log
+
+# Local editor/tool settings
+.claude/
+
+# macOS metadata
+.DS_Store
+
+# Swap / backup files
+*.swp
+*.swo
+*.bak
+*~
